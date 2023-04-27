@@ -1,0 +1,66 @@
+
+-----
+Test: tests/Test_buy_dns.py::test_buy_dns (call)
+Start time: 2023-04-27 11:28:38.712621
+Start name method: authorization
+
+End time: 2023-04-27 11:28:53.110829
+End name method: authorization
+URL: https://www.dns-shop.ru/profile/menu/
+
+-----
+
+-----
+Test: tests/Test_buy_dns.py::test_buy_dns (call)
+Start time: 2023-04-27 11:28:53.112820
+Start name method: select_smartphones
+
+End time: 2023-04-27 11:28:55.902088
+End name method: select_smartphones
+URL: https://www.dns-shop.ru/catalog/17a890dc16404e77/smartfony-i-fototexnika/
+
+-----
+
+-----
+Test: tests/Test_buy_dns.py::test_buy_dns (call)
+Start time: 2023-04-27 11:28:55.902088
+Start name method: select_phone2023
+
+End time: 2023-04-27 11:28:57.130205
+End name method: select_phone2023
+URL: https://www.dns-shop.ru/catalog/recipe/3907bff298e20bb0/2023-goda/
+
+-----
+
+-----
+Test: tests/Test_buy_dns.py::test_buy_dns (call)
+Start time: 2023-04-27 11:28:57.130205
+Start name method: filters
+
+End time: 2023-04-27 11:29:10.110039
+End name method: filters
+URL: https://www.dns-shop.ru/cart/
+
+-----
+
+-----
+Test: tests/Test_buy_dns.py::test_buy_dns (call)
+Start time: 2023-04-27 11:29:10.116459
+Start name method: cart
+
+End time: 2023-04-27 11:29:15.678629
+End name method: cart
+URL: https://www.dns-shop.ru/cart/
+
+-----
+
+-----
+Test: tests/Test_buy_dns.py::test_buy_dns (call)
+Start time: 2023-04-27 11:29:15.678629
+Start name method: confirmation
+
+End time: 2023-04-27 11:29:19.942846
+End name method: confirmation
+URL: https://www.dns-shop.ru/checkout-main/
+
+-----
