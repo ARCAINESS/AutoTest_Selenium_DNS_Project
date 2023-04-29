@@ -14,10 +14,6 @@ from utilities.auth_data import mail_number
 class Confirmation_page(Base):
 
 
-    def __init__(self, driver):
-        super().__init__(driver)
-        self.driver = driver
-
     #   LOCATORS
 
     remove_check_mark = "//label[contains(@class,'checkbox_g93')]"

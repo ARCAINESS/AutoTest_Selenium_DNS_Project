@@ -22,7 +22,7 @@ class Base():
     def get_screenshot(self):
         now_date = datetime.datetime.utcnow().strftime("%m.%d.%H.%M.%S")
         name_screenshot = f"Screen{now_date}.png"
-        self.driver.save_screenshot(fr"C:\Users\serge\PycharmProjects\MY_PROJECT_AUTO\screen\{name_screenshot}")
+        self.driver.save_screenshot(fr"screen\{name_screenshot}")
         print("Get Screenshot")
 
     """ASSERT URL"""

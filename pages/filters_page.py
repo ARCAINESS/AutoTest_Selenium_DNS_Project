@@ -12,11 +12,6 @@ from utilities.logger import Logger
 class Filters_page(Base):
 
 
-    def __init__(self, driver):
-        super().__init__(driver)
-        self.driver = driver
-
-
     #   LOCATORS
 
     rating_4_and_higher = "//div[@data-id='rating']"

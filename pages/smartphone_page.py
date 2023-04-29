@@ -10,10 +10,6 @@ from utilities.logger import Logger
 class Smartphone_page(Base):
 
 
-    def __init__(self, driver):
-        super().__init__(driver)
-        self.driver = driver
-
     #   LOCATORS
 
     cataloge_button = "//span[@data-role='catalog-button']"

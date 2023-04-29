@@ -14,10 +14,6 @@ class Login_page(Base):
 
     url = "https://www.dns-shop.ru/profile/menu/"
 
-    def __init__(self, driver):
-        super().__init__(driver)
-        self.driver = driver
-
     #   LOCATORS
 
     enter_button = "//button[@class='button-ui button-ui_white user-page__login-btn']"
